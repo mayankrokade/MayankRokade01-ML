@@ -1,2 +1,2 @@
-# ML-Lab
-Machine learning experiments 
+# ML
+Machine learning 
